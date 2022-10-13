@@ -2,7 +2,7 @@
 
 
 
-Step:
+Breakdown
 
 * finding computer vision datasets and pretrained models 📖
 * fine-tuning an image classifier model on new data 👾
@@ -18,3 +18,13 @@ This is a great example of where **image classification** can solve a real busin
 Our end goal will be to build a web-application that can take in an image of a bean leaf and predict whether it is healthy or diseased. The app will look something like this: 
 
 ![](https://i.ibb.co/6mcXB53/image.png)
+
+# Step 1: Loading a Dataset
+
+# Step 2: Loading a Pretrained Model
+
+# Step 3: Fine-tuning Your Model on the Dataset
+
+# Step 4: Reporting Model Metrics
+
+# Step 5: Building a Demo
